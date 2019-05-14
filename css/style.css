@@ -56,14 +56,19 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 
 .small {
-
+  height: 100%;
+  width: 100%;
+  display: inline-block;
 }
 
 .med {
-
+  height: 200%;
+  width: 200%;
+  display: inline-block;
 }
 
 .large {
   height: 300%;
   width: 300%;
+  display: inline-block;
 }
